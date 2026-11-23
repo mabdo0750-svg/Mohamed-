@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">دارة السويس</string>
+    <string name="nav_overview">الرئيسية</string>
+    <string name="nav_compounds">الكمباوندات</string>
+    <string name="nav_calculator">التمويل</string>
+    <string name="nav_contact">التواصل</string>
+    <string name="hero_badge">صندوق التنمية الحضرية • محافظة السويس</string>
+    <string name="hero_title">دارة السويس</string>
+    <string name="hero_subtitle">ثلاثة كمباوندات سكنية متكاملة بوحدات متشطبة وجاهزة: دارة حياة، دارة بستان، ودارة كيان</string>
+    <string name="status_sold_out">المرحلة الأولى Sold Out • غير متاح حالياً</string>
+    <string name="status_last_floor">متاح دور أخير فقط</string>
+    <string name="label_unit_price">سعر الوحدة</string>
+    <string name="label_down_payment">المقدم</string>
+    <string name="label_quarterly_installment">القسط الربع سنوي</string>
+    <string name="label_mortgage_available">متاح تمويل عقاري</string>
+    <string name="action_call_hotline">اتصل بالخط الساخن 15444</string>
+    <string name="action_call_sales">اتصل بالمبيعات 01033389338</string>
+    <string name="copied_to_clipboard">تم نسخ الرقم: %1$s</string>
+    <string name="no_dialer_found">لا يوجد تطبيق اتصال متاح على هذا الجهاز</string>
+    <string name="cd_back">رجوع</string>
+    <string name="cd_hero_banner">صورة بانورامية لمشروع دارة السويس السكني</string>
+</resources>
